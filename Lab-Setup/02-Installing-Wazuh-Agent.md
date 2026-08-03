@@ -43,3 +43,4 @@ sudo systemctl status wazuh-agent
 ## Screenshot
 
 <img width="1440" height="900" alt="Screenshot 2026-08-03 at 19 42 19" src="https://github.com/user-attachments/assets/79589016-698c-46d7-a750-de52c637a07d" />
+<img width="1440" height="900" alt="Screenshot 2026-08-03 at 20 17 07" src="https://github.com/user-attachments/assets/f71f2b94-0708-402e-9b67-41224b098c94" />
