@@ -34,7 +34,6 @@ The project demonstrates:
 ## Architecture
 
 <img width="1536" height="1024" alt="ChatGPT Image Aug 3, 2026, 06_33_30 PM" src="https://github.com/user-attachments/assets/4a9812a5-5c9a-4ad8-90a0-66aff40b789d" />
-<img width="1536" height="1024" alt="ChatGPT Image Aug 3, 2026, 06_30_45 PM" src="https://github.com/user-attachments/assets/9311b3ab-3a0e-471b-89e8-dbfdec7818a4" />
 
 
 ---
