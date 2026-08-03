@@ -30,12 +30,14 @@ Inside the `<ossec_config>` section, I added the following configuration to tell
   <location>/var/log/suricata/eve.json</location>
 </localfile>
 ```
+<img width="1440" height="900" alt="Screenshot 2026-08-03 at 20 23 50" src="https://github.com/user-attachments/assets/e9cca6d3-ec06-4761-939c-695e46f09518" />
 
 After saving the changes, I restarted the Wazuh agent so the new configuration would take effect.
 
 ```bash
 sudo /var/ossec/bin/wazuh-control restart
 ```
+<img width="1440" height="900" alt="Screenshot 2026-08-03 at 20 29 38" src="https://github.com/user-attachments/assets/207ca938-0a06-4dbf-a2d7-15d1384ebf5e" />
 
 ---
 
@@ -60,13 +62,9 @@ The output showed:
 ```text
 INFO: Analyzing file: '/var/log/suricata/eve.json'
 ```
+<img width="1440" height="900" alt="Screenshot 2026-08-03 at 20 32 33" src="https://github.com/user-attachments/assets/56129902-4439-41f0-84e9-1f3dabbe51a1" />
 
 This confirmed that the integration was successful and that Wazuh was monitoring Suricata events.
 
 ---
 
-## Screenshot
-
-- Wazuh configuration (`ossec.conf`)
-- Wazuh agent restart
-- Verification showing `eve.json` being analyzed
