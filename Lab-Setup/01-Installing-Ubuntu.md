@@ -1,4 +1,4 @@
-# Installing Ubuntu 24.04
+# Installing Ubuntu 26.04
 
 ## Objective
 
@@ -10,13 +10,13 @@ To prepare an Ubuntu virtual machine that will host the SOC home lab.
 
 - Host OS: macOS
 - Hypervisor: UTM
-- Guest OS: Ubuntu Server 24.04
+- Guest OS: Ubuntu Server 26.04
 
 ---
 
 ## Installation
 
-1. Downloaded Ubuntu Server 24.04 ISO.
+1. Downloaded Ubuntu Server 26.04 ISO.
 2. Created a new virtual machine in UTM.
 3. Allocated RAM and CPU.
 4. Installed Ubuntu.
