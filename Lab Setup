@@ -1,0 +1,15 @@
+# Ubuntu Installation
+
+## Objective
+
+Prepare an Ubuntu virtual machine for the SOC home lab.
+
+## Steps
+
+- Installed Ubuntu 26.04 in UTM.
+- Updated system packages.
+- Verified internet connectivity.
+
+## Screenshot
+
+(Add screenshot here)
