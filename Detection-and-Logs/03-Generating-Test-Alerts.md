@@ -76,6 +76,7 @@ This confirmed that communication between the agent and manager was working corr
 
 <img width="1440" height="900" alt="Screenshot 2026-08-04 at 15 47 27" src="https://github.com/user-attachments/assets/506dd5fd-52c8-476b-b966-15c7e4bf5438" />
 
+<img width="1440" height="900" alt="Screenshot 2026-08-04 at 15 52 42" src="https://github.com/user-attachments/assets/af524c3c-bc9a-4a30-96d5-60b5a1ad96d7" />
 
 *Document Details showing the generated sudo event, rule information, severity level, and MITRE ATT&CK mapping.*
 
