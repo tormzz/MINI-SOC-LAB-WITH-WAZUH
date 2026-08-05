@@ -1,4 +1,4 @@
-# Investigating Suricata Alerts
+# Investigating ICMP Alerts
 
 ## Objective
 
