@@ -59,12 +59,19 @@ This investigation helped me understand how Wazuh records and displays security 
 
 <img width="1440" height="900" alt="Screenshot 2026-08-05 at 00 58 30" src="https://github.com/user-attachments/assets/17ecb632-1356-475d-a481-524b5c71a552" />
 
+## Viewing the generated alerts
 
----
+The Wazuh Threat Hunting dashboard displays the alerts generated during testing, including Suricata events, PAM login activity, and successful sudo executions.
 
 ### Figure 2 – Alert Details
 
 
 <img width="1440" height="900" alt="Screenshot 2026-08-05 at 01 04 16" src="https://github.com/user-attachments/assets/9e147015-ab3c-470b-b2e8-9a321126cfb4" />
 
+
+---
 <img width="1440" height="900" alt="Screenshot 2026-08-05 at 01 04 24" src="https://github.com/user-attachments/assets/ea7f7071-b920-4737-a604-4abd8b5c009a" />
+
+## Investigating a sudo event
+
+Selecting an alert opens the document details, showing the event timestamp, rule description, rule ID, MITRE ATT&CK mapping, log source, and additional metadata used during investigation.
