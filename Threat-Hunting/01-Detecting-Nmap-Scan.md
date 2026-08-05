@@ -1,4 +1,4 @@
-# Investigating an Nmap Scan
+# Detecting Nmap Scan
 
 ## Objective
 
