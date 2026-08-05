@@ -8,11 +8,13 @@ The purpose of this exercise was to investigate a network security alert generat
 
 ## Lab Environment
 
-- Wazuh Manager: Ubuntu Server
-- Wazuh Agent: Ubuntu Server
-- IDS: Suricata
-- Dashboard: Wazuh Dashboard
-
+| Component | Description |
+|----------|-------------|
+| Attacking Machine | Kali Linux |
+| Target System | Ubuntu Server (Wazuh Agent + Suricata) |
+| SIEM Server | Ubuntu Server (Wazuh Manager) |
+| IDS | Suricata |
+| Monitoring Dashboard | Wazuh Dashboard |
 ---
 
 ## Generating the Alert
