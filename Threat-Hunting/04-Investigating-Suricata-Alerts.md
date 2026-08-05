@@ -17,7 +17,7 @@ The purpose of this exercise was to investigate a network security alert generat
 
 ## Generating the Alert
 
-I performed an Nmap scan against the monitored system to generate network traffic that could be detected by Suricata.
+I used my Kali Linux machine to perform an Nmap scan against the monitored Ubuntu endpoint running the Wazuh agent and Suricata.
 
 The alert was forwarded to the Wazuh Manager and appeared in the Threat Hunting dashboard.
 
